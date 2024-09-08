@@ -1,6 +1,14 @@
 # Steganography Programming Challenge
 
-This repo corresponds to a short Engineering Projects in Community Service (EPICS) skill session I gave at Arizona State University in September of 2024. 
+This repo corresponds to a short Engineering Projects in Community Service (EPICS) skill session I gave at Arizona State University in September of 2024.
+
+# Requirements
+
+- A modern installation of Python 3 (Later is better)
+- Python image library (PIL) `pip install pillow`
+- Numpy `pip install numpy`
+
+Note, you can install both of these libraries with the `requirements.txt` file in the repo by running `pip install -r requirements.txt`.
 
 ## The Challenge
 
