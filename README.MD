@@ -15,7 +15,7 @@ Note, you can install both of these libraries with the `requirements.txt` file i
 This repo contains a `main.py` script that embeds a simple ASCII message into a source image located in the repo at `./images/source.bmp`. 
 
 You can run the script to embed your own message, but the message to recover for the challenge is located in `challenge.bmp`. The image is a picture of a dog. You are to recover the following information based on the embedding procedure defined in `main.py`:
-- What is the dog's name
+- What is the dog's name?
 - How old is the dog?
 - Where does the dog live?
 
